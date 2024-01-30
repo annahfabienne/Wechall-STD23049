@@ -9,4 +9,4 @@ I chose level00. I opened the README.md file and here is the solution using "cat
 - ls
 - cd 00_welcome
 - ls
-- cat
+- cat README.md
