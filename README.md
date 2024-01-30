@@ -56,13 +56,20 @@ There were three folders and I chose "cd blue", after "ls", I entered the folder
 - cat .bash_history
 
 # LEVEL04
--First level04 was a hidden folder. That's why I used the command "ls -al" instead of "ls" to find it.
-
-
+-First level04 was a hidden folder. That's why I used the command "ls -al" instead of "ls" to find it, and folder "cd ~" to find the file "README2.MD" which contains the solution to this level.
 - cd ..
 - cd level
 - ls -al
 - cd 04_kwisatz
+- ls
+- cat README.nfo
+- cd ~
+- ls
+- cd level
+- ls
+- cd 04_kwisatz
+- ls
+- cat README2.md
 
 
 # LEVEL05
@@ -73,7 +80,7 @@ There were three folders and I chose "cd blue", after "ls", I entered the folder
 - cd 05_privacy
 - ls
 - cat README.md
-- 
+  
 
 
 
